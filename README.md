@@ -5,7 +5,7 @@
 ## Objetivo
 Realizar un repositorio de Git, donde se pongan los conceptos aprendidos
 ## Glosario
-1. [¿Qué es la nube?](#¿-Qué-es-la-nube-?)
+1. [Nube](#Nube)
 2. [Azure](#Azure)
 3. [Host](#Host)
 4. [VPN](#VPN)
@@ -24,7 +24,7 @@ Realizar un repositorio de Git, donde se pongan los conceptos aprendidos
 17. [MAQUINA VIRTUAL](#Máquina-virtual)
 18. [PROGRAMACIÓN](#Programación)
 ***
-## ¿Qué es la nube?
+## Nube
 La nube es un termino que se utiliza para describir una red mundial de servidores donde se almacenan datos y nos permite subir, modificar y usar archivos a través de una red.
 ***
 ## Azure
