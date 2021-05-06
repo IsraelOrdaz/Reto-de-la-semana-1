@@ -1,6 +1,7 @@
 # Reto-de-la-semana-1
 ## Integrantes
 - Israel Ordaz Alcocer
+- José Valdez Zazueta
 ## Objetivo
 Realizar un repositorio de Git, donde se pongan los conceptos aprendidos
 ## Glosario
