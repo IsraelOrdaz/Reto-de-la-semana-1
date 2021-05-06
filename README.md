@@ -18,11 +18,11 @@ Realizar un repositorio de Git, donde se pongan los conceptos aprendidos
 11. [Nube Publica](#Nube-Publica)
 12. [Nube Privada](#Nube-Privada)
 13. [Nube Hibrida](#Nube-Hibrida)
-14. [MultiCLoud](##Multi-cloud)
-15. [FRONTEND Y BACKEND](#FRONTENDYBACKEND)
+14. [MultiCLoud](#Multicloud)
+15. [FRONTEND Y BACKEND](#FRONTEND-Y-BACKEND)
 16. [API](#API)
-17. [MAQUINA VIRTUAL](##Máquina-virtual)
-18. [PROGRAMACIÓN](##PROGRAMACION)
+17. [MAQUINA VIRTUAL](#Máquina-virtual)
+18. [PROGRAMACIÓN](#PROGRAMACION)
 ***
 ## ¿Qué es la nube?
 La nube es un termino que se utiliza para describir una red mundial de servidores donde se almacenan datos y nos permite subir, modificar y usar archivos a través de una red.
