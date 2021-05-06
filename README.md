@@ -1,4 +1,4 @@
-# Reto-de-la-semana-1
+# Reto de la semana 1
 ## Integrantes
 - Israel Ordaz Alcocer
 - José Valdez Zazueta
