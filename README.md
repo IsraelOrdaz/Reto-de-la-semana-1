@@ -4,7 +4,7 @@
 ## Objetivo
 Realizar un repositorio de Git, donde se pongan los conceptos aprendidos
 ## Glosario
-1. [Nube](#¿Qué es la nube?)
+1. [¿Qué es la nube?](#¿Qué-es-la-nube?)
 2. [Azure](#Azure)
 3. [Host](#Host)
 4. [VPN](#VPN)
